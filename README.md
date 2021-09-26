@@ -28,7 +28,13 @@ export default App;
 
 - Top level component should **always** be `App` in `App.js` (it's possible to tweak it), but the skeleton assumes it's called `App`.
 
-# Topics to cover next
+# Topics to cover next week
+
+Functional components
+Class based components
+Styling components
+JSX
+
 
 
 
